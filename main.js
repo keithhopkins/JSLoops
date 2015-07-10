@@ -14,7 +14,7 @@ console.log("Problem 5");
 for (var g = 9; g>=0; g--)
   console.log(g);
 console.log("Problem 6");
-for (var f = 1; f<4; f++)
+for (var f = 1; f<5; f++)
   for (var u = 0; u<3; u++)
     console.log(f);
 console.log("Problem 7");
